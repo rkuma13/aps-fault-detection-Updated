@@ -30,7 +30,7 @@ If you are starting a project and you want to use git in your project
 ```
 git init
 ```
-Note: This is going to initalize git in your source code.
+Note: This is going to initalize git in your source code. 
 
 
 OR
